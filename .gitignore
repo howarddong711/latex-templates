@@ -1,0 +1,29 @@
+# LaTeX generated files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.xdv
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ind
+*.ilg
+*.bak
+*.tmp
+# Local editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+weekly-report/main.pdf
